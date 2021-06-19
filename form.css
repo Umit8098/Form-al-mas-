@@ -123,12 +123,12 @@ h1{
 #label_age{
     position: absolute;
     left: 50px;
-    top: 170px;
+    top: 175px;
 }
 #age{
     position: absolute;
     left: 160px;
-    top: 170px;
+    top: 175px;
 }
 #label_search{
     position: absolute;
@@ -155,12 +155,12 @@ h1{
 #label_tarih{
     position: absolute;
     left: 50px;
-    top: 270px;
+    top: 265px;
 }
 #tarih{
     position: absolute;
     left: 165px;
-    top: 270px;
+    top: 265px;
 }
 #label_mail{
     position: absolute;
@@ -195,10 +195,10 @@ h1{
 #reset{
     position: absolute;
     left: 100px;
-    top: 450px;
+    top: 430px;
 }
 #submit{
     position: absolute;
     left: 200px;
-    top: 450px;
+    top: 430px;
 }
