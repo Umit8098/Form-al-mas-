@@ -1,0 +1,204 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.master{
+    position: relative;
+    left: 50px;
+    top: 10px;
+}
+
+.div0{
+    position: relative;
+}
+h1{
+    position: absolute;
+    top: 50px;
+    left: 100px;
+}
+.div1{
+    position: relative;
+    top: 125px;
+}
+#label1{
+    position: absolute;
+    width: 50px;
+    left: 50px;
+    top: 10px;
+}
+#isim-input{
+    position: absolute;
+    width: 200px;
+    left: 160px;
+    top: 10px;
+}
+#label2{
+    position: absolute;
+    width: 100px;
+    left: 50px;
+    top: 40px;
+}
+#soyisim-input{
+    position: absolute;
+    width: 200px;
+    left: 160px;
+    top: 40px;
+}
+#label3{
+    position: absolute;
+    width: 50px;
+    left: 50px;
+    top: 70px;
+}
+#şifre{
+    position: absolute;
+    width: 200px;
+    left: 160px;
+    top: 70px;
+}
+.cinsiyet{
+    position: absolute;
+    left: 50px;
+    top: 90px;
+    
+}
+#gender1{
+    position: absolute;
+    left: 100px;
+}
+#gender2{
+    position: absolute;
+    left: 200px;
+}
+#erkek{
+    position: absolute;
+    left: 125px;
+}
+#kadın{
+    position: absolute;
+    left: 225px;
+}
+#favori_hayvan{
+    position: absolute;
+    left: 50px;
+    top: 125px;
+    
+}
+#panda{
+    position: absolute;
+    left: 80px;
+    top: 145px;
+}
+#label_panda{
+    position: absolute;
+    left: 100px;
+    top: 145px;
+}
+#balık{
+    position: absolute;
+    left: 180px;
+    top: 145px;
+}
+#label_balık{
+    position: absolute;
+    left: 200px;
+    top: 145px;
+}
+#at{
+    position: absolute;
+    left: 290px;
+    top: 145px;
+}
+#label_at{
+    position: absolute;
+    left: 310px;
+    top: 145px;
+}
+.div4{
+    position: relative;
+    top: 170px;
+    left: 50px;
+}
+#label_age{
+    position: absolute;
+    left: 50px;
+    top: 170px;
+}
+#age{
+    position: absolute;
+    left: 160px;
+    top: 170px;
+}
+#label_search{
+    position: absolute;
+    left: 50px;
+    top: 200px;
+
+}
+#search{
+    position: absolute;
+    left: 160px;
+    top: 200px;
+
+}
+#label_renk{
+    position: absolute;
+    left: 50px;
+    top: 230px;
+}
+#renk{
+    position: absolute;
+    left: 160px;
+    top: 226px;
+}
+#label_tarih{
+    position: absolute;
+    left: 50px;
+    top: 270px;
+}
+#tarih{
+    position: absolute;
+    left: 165px;
+    top: 270px;
+}
+#label_mail{
+    position: absolute;
+    left: 50px;
+    top: 300px;
+}
+#mail{
+    position: absolute;
+    left: 160px;
+    top: 300px;
+}
+#lable_dosya{
+    position: absolute;
+    left: 50px;
+    top: 330px;
+}
+#dosya{
+    position: absolute;
+    left: 160px;
+    top: 330px;
+}
+#lable_telno{
+    position: absolute;
+    left: 50px;
+    top: 360px;
+}
+#telno{
+    position: absolute;
+    left: 160px;
+    top: 358px;
+}
+#reset{
+    position: absolute;
+    left: 100px;
+    top: 450px;
+}
+#submit{
+    position: absolute;
+    left: 200px;
+    top: 450px;
+}
